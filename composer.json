@@ -1,6 +1,6 @@
 {
     "name": "kontoulis/laravel-attribute-model-casting",
-    "description": "A Laravel package that allows using native php attributes for casting model attributes",
+    "description": "A Laravel package enabling the use of native PHP attributes for defining and managing Eloquent model attribute casts.",
     "keywords": [
         "laravel",
         "eloquent",
