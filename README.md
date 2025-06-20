@@ -85,4 +85,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This package is open-sourced software licensed under the [MIT license](https://github.com/kontoulis/laravel-attribute-model-casting/LICENSE).
-```
