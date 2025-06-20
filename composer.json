@@ -1,0 +1,37 @@
+{
+    "name": "kontoulis/laravel-attribute-model-casting",
+    "description": "A Laravel package that allows using native php attributes for casting model attributes",
+    "keywords": [
+        "laravel",
+        "eloquent",
+        "model",
+        "casts",
+        "attributes",
+        "php"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dimitrios Kontoulis",
+            "email": "kontoulisdhm@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^11.0|^12.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5",
+        "orchestra/testbench": "^9.0 || ^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kontoulis\\LaravelAttributeModelCasting\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    }
+}
